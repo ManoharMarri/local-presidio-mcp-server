@@ -213,7 +213,3 @@ Use score_pii_risk with:
 
 ---
 
-## License
-
-MIT
-```
